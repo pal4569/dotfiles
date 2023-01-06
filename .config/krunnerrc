@@ -1,0 +1,7 @@
+[General]
+ActivityAware=false
+HistoryEnabled=false
+RetainPriorSearch=false
+
+[PlasmaRunnerManager]
+migrated=true

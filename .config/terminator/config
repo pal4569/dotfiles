@@ -1,0 +1,24 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.79
+    background_type = transparent
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#ffffff"
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    login_shell = True
+    custom_command = neofetch
+    title_use_system_font = False
+    title_font = System-ui 9
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
