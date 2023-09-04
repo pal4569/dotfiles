@@ -1,6 +1,0 @@
-2023/01/05-21:06:40.995 11e5 Reusing MANIFEST /home/pal/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/01/05-21:06:40.995 11e5 Recovering log #4
-2023/01/05-21:06:40.995 11e5 Reusing old log /home/pal/.config/discord/Local Storage/leveldb/000004.log 
-2023/01/05-21:08:41.747 12a1 Level-0 table #8: started
-2023/01/05-21:08:41.796 12a1 Level-0 table #8: 1301326 bytes OK
-2023/01/05-21:08:41.798 12a1 Delete type=0 #4
