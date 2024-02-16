@@ -1,11 +1,6 @@
 # Dotfiles
 
-Dotfiles for the following:
-- i3 (Window Manager)
-- Alacritty (Terminal Emulator)
-- Picom (Xorg Compositor)
-- Polybar (Status Bar)
-- Vim (Text Editor)
-- Bash (Unix Shell)
- 
-![screen(1)](https://github.com/pal4569/dotfiles/assets/39223944/21a4a9e6-4886-4ca4-87d3-1c9d28f12269)
+Polybar config
+Kitty config
+
+![neofetch](https://github.com/pal4569/dotfiles/assets/39223944/7a6c0d5e-30a8-4867-ba9d-58ee58ee38d5)
