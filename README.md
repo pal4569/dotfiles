@@ -1,11 +1,10 @@
 # Dotfiles
 
-- Polybar config
-- Kitty config
+- waybar config
+- kitty config
 - zsh gallifrey theme
 - neofetch config
-- i3 config
-- Picom config
+- sway config
 - Dunst conifg
 
 - Primarily Gruvbox Dark Theme
