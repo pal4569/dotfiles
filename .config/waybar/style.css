@@ -1,0 +1,57 @@
+* {
+    font-family: 'SF Mono', sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+window#waybar {
+    background-color: transparent;
+    color: #ebdbb2;
+}
+
+#workspaces {
+    padding: 0 7px 0 7px;
+    background-color: #8ec07c;
+}
+
+.modules-left {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.modules-right {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#battery {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 11px;
+    color: #83a598;
+    background-color: #282828;
+}
+
+#clock {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 11px;
+    background-color: #282828;
+    color: #b8bb26;
+}
+
+#network {
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #282828;
+    color: #d3869b;
+}
+
+#pulseaudio {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 11px;
+    background-color: #282828;
+    color: #fabd2f;
+}

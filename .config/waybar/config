@@ -1,0 +1,51 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 15,
+    "margin-top": 7,
+    "modules-left": ["battery", "pulseaudio"],
+    "modules-center": ["sway/workspaces"],
+    "modules-right": ["network", "clock"],
+
+    "battery": {
+        "format": "bat: {capacity}%",
+        "format-charging": "charging: {capacity}%"
+    },
+    "clock": {
+        "format": "{:%I:%M %p}",
+        "format-alt": "{:%a, %d. %b  %I:%M %p}"
+    },
+    "pulseaudio": {
+        "format": "vol: {volume}%",
+        "format-bluetooth": "blu: {volume}%",
+        "format-muted": "vol: muted",
+        "scroll-step": 1,
+        "on-click": "pavucontrol",
+        "ignored-sinks": ["Easy Effects Sink"]
+    },
+    "network": {
+        "interface": "wlp1s0",
+        "format": "{ifname}",
+        "format-wifi": "wlps10: {essid}",
+        "format-ethernet": "eno1: {ipaddr}/{cidr}",
+        "format-disconnected": "wlp1s0: disconnected",
+        "max-length": 50
+    },
+    "sway/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "一",
+            "2": "二",
+            "3": "三",
+            "4": "四",
+            "5": "五",
+            "6": "六",
+            "7": "七",
+            "8": "八",
+            "9": "九",
+            "10": "十",
+        },
+        "sort-by-number": true
+    },
+}
