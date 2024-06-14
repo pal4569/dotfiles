@@ -9,4 +9,5 @@
 
 - Primarily Gruvbox Dark Theme
 
-![20240508_21h03m20s_grim](https://github.com/pal4569/dotfiles/assets/39223944/9e108128-7ce2-43bb-84a2-1cb9392a7d4a)
+![dotsPic](https://github.com/pal4569/dotfiles/assets/39223944/8fdf01fc-45f9-43bb-942d-9e5106a91061)
+
