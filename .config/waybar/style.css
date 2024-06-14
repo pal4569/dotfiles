@@ -12,7 +12,8 @@ window#waybar {
 
 #workspaces {
     padding: 0 7px 0 7px;
-    background-color: #8ec07c;
+    background-color: #bdae93;
+    color: #cc241d; /* Ensure this line is correct and free of extra characters */
 }
 
 .modules-left {
